@@ -4,7 +4,7 @@ echo "This is home page";
 
 for($i=0 ;$i<=10; $i++){
     echo $i;
-    echo "<br>";
+    echo "<br>"
 }
 ?>
 
