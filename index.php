@@ -7,6 +7,8 @@ if(!$con){
     echo "<H1>Database is connected, you can interact for the informations</H1> <br>";
 }
 
+echo "This is modification changes <br>";
+
 echo "This is home page";
 
 for($i=0 ;$i<=10; $i++){
