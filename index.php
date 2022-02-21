@@ -1,6 +1,7 @@
 <?php
 echo "This is webhook push";
 
+
 $con = mysqli_connect('localhost','root','','test');
 if(!$con){
     die("Error in connecting to database");
