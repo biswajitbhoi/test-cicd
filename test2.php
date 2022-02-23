@@ -1,3 +1,3 @@
 <?php
-echo "This is internal testing page";
+echo "This is internal testing page----";
 ?>
